@@ -1,0 +1,13 @@
+module github.com/sergeyWh1te/abigenx
+
+go 1.25.5
+
+require github.com/ethereum/go-ethereum v1.16.7
+
+require (
+	github.com/ProjectZKM/Ziren/crates/go-runtime/zkvm_runtime v0.0.0-20251230134950-44c893854e3f // indirect
+	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.4.0 // indirect
+	github.com/holiman/uint256 v1.3.2 // indirect
+	golang.org/x/crypto v0.46.0 // indirect
+	golang.org/x/sys v0.39.0 // indirect
+)
